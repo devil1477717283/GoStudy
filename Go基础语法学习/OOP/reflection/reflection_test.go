@@ -11,6 +11,9 @@ import "testing"
 //func TestGetMethod(t *testing.T) {
 //	GetMethod()
 //}
-func TestGetFunc(t *testing.T) {
-	GetFunc()
+//func TestGetFunc(t *testing.T) {
+//	GetFunc()
+//}
+func TestGetStructRelation(t *testing.T) {
+	GetStructRelation()
 }

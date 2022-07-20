@@ -106,3 +106,6 @@ func GetFunc() {
 		fmt.Println("InArg", i, ":", argOut.Name())
 	}
 }
+func GetStructRelation() {
+
+}
